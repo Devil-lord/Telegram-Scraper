@@ -12,14 +12,14 @@ $ pkg install python -y
 
 $ pkg install git
 
-$ git clone https://github.com/termuxprofessor/TeleGram-Scraper-Adder
+$ git clone https://github.com/Devil-lord/Telegram-Scraper.git
 
-$ cd Telegram-Scraper-Adder
+$ cd Telegram-Scraper
 
 Install requierments & Setup Configuration File. ( apiID, apiHash )
 $ python setup.py
 
-To Scare members from group.
+To Scrape members from group.
 $ python scraper.py
 
 Add Scarped members to your group.
